@@ -1,0 +1,16 @@
+﻿  main.cpp
+  _Board.cpp
+e:\gamecaro\source\gamecaro\gamecaro\_board.cpp(226): warning C4018: '<': signed/unsigned mismatch
+e:\gamecaro\source\gamecaro\gamecaro\_board.cpp(283): warning C4018: '<': signed/unsigned mismatch
+e:\gamecaro\source\gamecaro\gamecaro\_board.cpp(345): warning C4018: '<': signed/unsigned mismatch
+e:\gamecaro\source\gamecaro\gamecaro\_board.cpp(406): warning C4018: '<': signed/unsigned mismatch
+  _Common.cpp
+  _Game.cpp
+  _Play.cpp
+e:\gamecaro\source\gamecaro\gamecaro\_play.cpp(379): warning C4101: 'i': unreferenced local variable
+  _Point.cpp
+  Generating Code...
+e:\gamecaro\source\gamecaro\gamecaro\_play.cpp(989): warning C4715: 'PlayerVsCom': not all control paths return a value
+e:\gamecaro\source\gamecaro\gamecaro\_play.cpp(1151): warning C4715: 'PlayerVsCom2': not all control paths return a value
+e:\gamecaro\source\gamecaro\gamecaro\_play.cpp(1297): warning C4715: 'PlayerVsPlayer': not all control paths return a value
+  gamecaro.vcxproj -> E:\gamecaro\Source\gamecaro\Debug\gamecaro.exe
